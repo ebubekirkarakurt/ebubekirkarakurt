@@ -43,10 +43,6 @@ I build and ship products end to end — from the first commit to production tra
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ebubekirkarakurt&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="Contribution graph" />
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ebubekirkarakurt/ebubekirkarakurt/output/snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ebubekirkarakurt/ebubekirkarakurt/output/snake.svg" />
